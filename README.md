@@ -1,5 +1,6 @@
-# nextjs_first_nomard
-nextjs_first_nomardcoder 
+# nestjs_first_nomard
+
+js_first_nomardcoder 
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
